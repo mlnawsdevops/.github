@@ -5,9 +5,9 @@
 #### Current status: Serving notice period
 #### Looking For: New opportunities to contribute and grow as a DevOps professional
 
-<!-- ### Socials
+### Socials
 
-<p align="left"><a href="https://www.linkedin.com/in/sivakumar-reddy-mettukuru" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </p> -->
+<p align="left"><a href="https://www.linkedin.com/in/lakshminarayanamangena/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </p>
 
 <!-- #### Language: Telugu
 #### Trainer: Sivakumar Reddy
