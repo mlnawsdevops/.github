@@ -1,9 +1,9 @@
 # Lakshmi Narayana Mangena
-#### AWS DevOps Enginner
-#### narayanalaxmanmangena@gmail.com
-#### Experience - 4 years
-#### Serving notice period
-#### Ready to take the new opportunities
+## AWS DevOps Enginner
+#### Email: narayanalaxmanmangena@gmail.com
+#### Experience: 4 years
+#### Current status: Serving notice period
+#### Looking For: New opportunities to contribute and grow as a DevOps professional
 
 <!-- ### Socials
 
