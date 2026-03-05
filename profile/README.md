@@ -4,8 +4,6 @@
 #### Experience: 4 years
 #### Looking For: New opportunities to contribute and grow as a DevOps professional
 
-### Socials
-
 <!-- #### Language: Telugu
 #### Trainer: Sivakumar Reddy
 #### Demo: 31-AUG-2025 10:30AM IST
